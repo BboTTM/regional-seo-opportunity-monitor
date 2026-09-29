@@ -1,0 +1,951 @@
+[
+  {
+    "id": "web-altin.in",
+    "name": "Altın.in",
+    "url": "https://altin.in/",
+    "type": "website",
+    "cadence": "weekly",
+    "status": "seed_recheck_required"
+  },
+  {
+    "id": "web-canlidoviz.com",
+    "name": "Canlı Döviz",
+    "url": "https://canlidoviz.com/",
+    "type": "website",
+    "cadence": "weekly",
+    "status": "seed_recheck_required"
+  },
+  {
+    "id": "web-borsaningundemi.com",
+    "name": "Borsanın Gündemi",
+    "url": "https://borsaningundemi.com/",
+    "type": "website",
+    "cadence": "weekly",
+    "status": "seed_recheck_required"
+  },
+  {
+    "id": "web-foreks.com",
+    "name": "Foreks",
+    "url": "https://foreks.com/",
+    "type": "website",
+    "cadence": "daily",
+    "status": "seed_recheck_required"
+  },
+  {
+    "id": "web-borsadirekt.com",
+    "name": "BorsaDirekt",
+    "url": "https://borsadirekt.com/",
+    "type": "website",
+    "cadence": "weekly",
+    "status": "seed_recheck_required"
+  },
+  {
+    "id": "web-ekoturk.com",
+    "name": "EKOTÜRK",
+    "url": "https://ekoturk.com/",
+    "type": "website",
+    "cadence": "weekly",
+    "status": "seed_recheck_required"
+  },
+  {
+    "id": "web-webrazzi.com",
+    "name": "Webrazzi",
+    "url": "https://webrazzi.com/",
+    "type": "website",
+    "cadence": "weekly",
+    "status": "seed_recheck_required"
+  },
+  {
+    "id": "web-uzmancoin.com",
+    "name": "Uzmancoin",
+    "url": "https://uzmancoin.com/",
+    "type": "website",
+    "cadence": "daily",
+    "status": "seed_recheck_required"
+  },
+  {
+    "id": "web-finansingundemi.com",
+    "name": "Finansın Gündemi",
+    "url": "https://finansingundemi.com/",
+    "type": "website",
+    "cadence": "weekly",
+    "status": "seed_recheck_required"
+  },
+  {
+    "id": "web-bigpara.hurriyet.com.tr",
+    "name": "Bigpara",
+    "url": "https://bigpara.hurriyet.com.tr/",
+    "type": "website",
+    "cadence": "daily",
+    "status": "seed_recheck_required"
+  },
+  {
+    "id": "web-bitcoinhaber.net",
+    "name": "Bitcoin Haber",
+    "url": "https://bitcoinhaber.net/",
+    "type": "website",
+    "cadence": "weekly",
+    "status": "seed_recheck_required"
+  },
+  {
+    "id": "web-bitcoinsistemi.com",
+    "name": "Bitcoin Sistemi",
+    "url": "https://bitcoinsistemi.com/",
+    "type": "website",
+    "cadence": "daily",
+    "status": "seed_recheck_required"
+  },
+  {
+    "id": "web-bloomberght.com",
+    "name": "Bloomberg HT",
+    "url": "https://bloomberght.com/",
+    "type": "website",
+    "cadence": "daily",
+    "status": "seed_recheck_required"
+  },
+  {
+    "id": "web-borsamatik.com.tr",
+    "name": "Borsamatik",
+    "url": "https://borsamatik.com.tr/",
+    "type": "website",
+    "cadence": "weekly",
+    "status": "seed_recheck_required"
+  },
+  {
+    "id": "web-borsatek.com",
+    "name": "Borsatek",
+    "url": "https://borsatek.com/",
+    "type": "website",
+    "cadence": "weekly",
+    "status": "seed_recheck_required"
+  },
+  {
+    "id": "web-btchaber.com",
+    "name": "BTCHaber",
+    "url": "https://btchaber.com/",
+    "type": "website",
+    "cadence": "daily",
+    "status": "seed_recheck_required"
+  },
+  {
+    "id": "web-capital.com.tr",
+    "name": "Capital",
+    "url": "https://capital.com.tr/",
+    "type": "website",
+    "cadence": "weekly",
+    "status": "seed_recheck_required"
+  },
+  {
+    "id": "web-cnbce.com",
+    "name": "CNBC-e",
+    "url": "https://cnbce.com/",
+    "type": "website",
+    "cadence": "weekly",
+    "status": "seed_recheck_required"
+  },
+  {
+    "id": "web-coinmuhendisi.com",
+    "name": "Coin Mühendisi",
+    "url": "https://coinmuhendisi.com/",
+    "type": "website",
+    "cadence": "daily",
+    "status": "seed_recheck_required"
+  },
+  {
+    "id": "web-coinkolik.com",
+    "name": "Coinkolik",
+    "url": "https://coinkolik.com/",
+    "type": "website",
+    "cadence": "daily",
+    "status": "seed_recheck_required"
+  },
+  {
+    "id": "web-coin-turk.com",
+    "name": "COINTURK",
+    "url": "https://coin-turk.com/",
+    "type": "website",
+    "cadence": "daily",
+    "status": "seed_recheck_required"
+  },
+  {
+    "id": "web-donanimhaber.com",
+    "name": "DonanımHaber",
+    "url": "https://donanimhaber.com/",
+    "type": "website",
+    "cadence": "weekly",
+    "status": "seed_recheck_required"
+  },
+  {
+    "id": "web-doviz.com",
+    "name": "Döviz.com",
+    "url": "https://doviz.com/",
+    "type": "website",
+    "cadence": "daily",
+    "status": "seed_recheck_required"
+  },
+  {
+    "id": "web-doviz724.com",
+    "name": "Döviz724",
+    "url": "https://doviz724.com/",
+    "type": "website",
+    "cadence": "weekly",
+    "status": "seed_recheck_required"
+  },
+  {
+    "id": "web-dunya.com",
+    "name": "Dünya",
+    "url": "https://dunya.com/",
+    "type": "website",
+    "cadence": "daily",
+    "status": "seed_recheck_required"
+  },
+  {
+    "id": "web-ekonomidunya.com",
+    "name": "Ekonomi Dünya",
+    "url": "https://ekonomidunya.com/",
+    "type": "website",
+    "cadence": "weekly",
+    "status": "seed_recheck_required"
+  },
+  {
+    "id": "web-ekonomim.com",
+    "name": "Ekonomim",
+    "url": "https://ekonomim.com/",
+    "type": "website",
+    "cadence": "daily",
+    "status": "seed_recheck_required"
+  },
+  {
+    "id": "web-ekonomist.com.tr",
+    "name": "Ekonomist",
+    "url": "https://ekonomist.com.tr/",
+    "type": "website",
+    "cadence": "weekly",
+    "status": "seed_recheck_required"
+  },
+  {
+    "id": "web-ekovitrin.com",
+    "name": "Ekovitrin",
+    "url": "https://ekovitrin.com/",
+    "type": "website",
+    "cadence": "weekly",
+    "status": "seed_recheck_required"
+  },
+  {
+    "id": "web-finansajans.com",
+    "name": "Finans Ajans",
+    "url": "https://finansajans.com/",
+    "type": "website",
+    "cadence": "weekly",
+    "status": "seed_recheck_required"
+  },
+  {
+    "id": "web-fintables.com",
+    "name": "Fintables",
+    "url": "https://fintables.com/",
+    "type": "website",
+    "cadence": "weekly",
+    "status": "seed_recheck_required"
+  },
+  {
+    "id": "web-fintechistanbul.org",
+    "name": "FinTech İstanbul",
+    "url": "https://fintechistanbul.org/",
+    "type": "website",
+    "cadence": "weekly",
+    "status": "seed_recheck_required"
+  },
+  {
+    "id": "web-fintechtime.com",
+    "name": "Fintechtime",
+    "url": "https://fintechtime.com/",
+    "type": "website",
+    "cadence": "weekly",
+    "status": "seed_recheck_required"
+  },
+  {
+    "id": "web-halkarz.com",
+    "name": "Halkarz",
+    "url": "https://halkarz.com/",
+    "type": "website",
+    "cadence": "weekly",
+    "status": "seed_recheck_required"
+  },
+  {
+    "id": "web-hisse.net",
+    "name": "Hisse.net",
+    "url": "https://hisse.net/",
+    "type": "website",
+    "cadence": "weekly",
+    "status": "seed_recheck_required"
+  },
+  {
+    "id": "web-koinbulteni.com",
+    "name": "Koin Bülteni",
+    "url": "https://koinbulteni.com/",
+    "type": "website",
+    "cadence": "daily",
+    "status": "seed_recheck_required"
+  },
+  {
+    "id": "web-koinfinans.com",
+    "name": "KoinFinans",
+    "url": "https://koinfinans.com/",
+    "type": "website",
+    "cadence": "daily",
+    "status": "seed_recheck_required"
+  },
+  {
+    "id": "web-koinvizyon.com",
+    "name": "KoinVizyon",
+    "url": "https://koinvizyon.com/",
+    "type": "website",
+    "cadence": "weekly",
+    "status": "seed_recheck_required"
+  },
+  {
+    "id": "web-kriptoarena.com",
+    "name": "Kripto Arena",
+    "url": "https://kriptoarena.com/",
+    "type": "website",
+    "cadence": "weekly",
+    "status": "seed_recheck_required"
+  },
+  {
+    "id": "web-kriptopiyasasi.com",
+    "name": "Kripto Piyasası",
+    "url": "https://kriptopiyasasi.com/",
+    "type": "website",
+    "cadence": "weekly",
+    "status": "seed_recheck_required"
+  },
+  {
+    "id": "web-kriptofoni.com",
+    "name": "Kriptofoni",
+    "url": "https://kriptofoni.com/",
+    "type": "website",
+    "cadence": "weekly",
+    "status": "seed_recheck_required"
+  },
+  {
+    "id": "web-finans.mynet.com",
+    "name": "Mynet Finans",
+    "url": "https://finans.mynet.com/",
+    "type": "website",
+    "cadence": "daily",
+    "status": "seed_recheck_required"
+  },
+  {
+    "id": "web-paradergi.com.tr",
+    "name": "Para Dergi",
+    "url": "https://paradergi.com.tr/",
+    "type": "website",
+    "cadence": "weekly",
+    "status": "seed_recheck_required"
+  },
+  {
+    "id": "web-paraanaliz.com",
+    "name": "ParaAnaliz",
+    "url": "https://paraanaliz.com/",
+    "type": "website",
+    "cadence": "weekly",
+    "status": "seed_recheck_required"
+  },
+  {
+    "id": "web-patronlardunyasi.com",
+    "name": "Patronlar Dünyası",
+    "url": "https://patronlardunyasi.com/",
+    "type": "website",
+    "cadence": "weekly",
+    "status": "seed_recheck_required"
+  },
+  {
+    "id": "web-platinonline.com",
+    "name": "Platin Online",
+    "url": "https://platinonline.com/",
+    "type": "website",
+    "cadence": "weekly",
+    "status": "seed_recheck_required"
+  },
+  {
+    "id": "web-rotaborsa.com",
+    "name": "Rota Borsa",
+    "url": "https://rotaborsa.com/",
+    "type": "website",
+    "cadence": "weekly",
+    "status": "seed_recheck_required"
+  },
+  {
+    "id": "web-turkiyedeisdunyasi.com",
+    "name": "Türkiye’de İş Dünyası",
+    "url": "https://turkiyedeisdunyasi.com/",
+    "type": "website",
+    "cadence": "weekly",
+    "status": "seed_recheck_required"
+  },
+  {
+    "id": "web-investing.com",
+    "name": "Investing.com",
+    "url": "https://tr.investing.com/",
+    "type": "website",
+    "cadence": "daily",
+    "status": "seed_recheck_required"
+  },
+  {
+    "id": "web-tradingview.com",
+    "name": "TradingView",
+    "url": "https://tr.tradingview.com/",
+    "type": "website",
+    "cadence": "daily",
+    "status": "seed_recheck_required"
+  },
+  {
+    "id": "web-beincrypto.com",
+    "name": "BeInCrypto",
+    "url": "https://beincrypto.com/",
+    "type": "website",
+    "cadence": "weekly",
+    "status": "seed_recheck_required"
+  },
+  {
+    "id": "web-coindesk.com/tr",
+    "name": "CoinDesk Türkçe",
+    "url": "https://coindesk.com/tr/",
+    "type": "website",
+    "cadence": "weekly",
+    "status": "seed_recheck_required"
+  },
+  {
+    "id": "web-coingecko.com",
+    "name": "CoinGecko",
+    "url": "https://coingecko.com/",
+    "type": "website",
+    "cadence": "weekly",
+    "status": "seed_recheck_required"
+  },
+  {
+    "id": "web-coinmarketcap.com",
+    "name": "CoinMarketCap",
+    "url": "https://coinmarketcap.com/",
+    "type": "website",
+    "cadence": "weekly",
+    "status": "seed_recheck_required"
+  },
+  {
+    "id": "web-coinotag.com",
+    "name": "COINOTAG",
+    "url": "https://coinotag.com/",
+    "type": "website",
+    "cadence": "weekly",
+    "status": "seed_recheck_required"
+  },
+  {
+    "id": "web-cointelegraph.com",
+    "name": "Cointelegraph",
+    "url": "https://cointelegraph.com/",
+    "type": "website",
+    "cadence": "weekly",
+    "status": "seed_recheck_required"
+  },
+  {
+    "id": "web-forexfactory.com",
+    "name": "Forex Factory",
+    "url": "https://forexfactory.com/",
+    "type": "website",
+    "cadence": "weekly",
+    "status": "seed_recheck_required"
+  },
+  {
+    "id": "web-fxstreet.com",
+    "name": "FXStreet",
+    "url": "https://fxstreet.com/",
+    "type": "website",
+    "cadence": "weekly",
+    "status": "seed_recheck_required"
+  },
+  {
+    "id": "web-mql5.com",
+    "name": "MQL5 Community",
+    "url": "https://mql5.com/",
+    "type": "website",
+    "cadence": "weekly",
+    "status": "seed_recheck_required"
+  },
+  {
+    "id": "web-myfxbook.com",
+    "name": "Myfxbook",
+    "url": "https://myfxbook.com/",
+    "type": "website",
+    "cadence": "weekly",
+    "status": "seed_recheck_required"
+  },
+  {
+    "id": "web-tradingeconomics.com",
+    "name": "Trading Economics",
+    "url": "https://tradingeconomics.com/",
+    "type": "website",
+    "cadence": "weekly",
+    "status": "seed_recheck_required"
+  },
+  {
+    "id": "seed-x-eylemculculoglu",
+    "name": "EylemCulculoglu",
+    "url": "https://x.com/EylemCulculoglu",
+    "type": "social_account",
+    "cadence": "weekly",
+    "status": "seed_recheck_required"
+  },
+  {
+    "id": "seed-x-emreislek",
+    "name": "Emreislek",
+    "url": "https://x.com/Emreislek",
+    "type": "social_account",
+    "cadence": "weekly",
+    "status": "seed_recheck_required"
+  },
+  {
+    "id": "seed-x-milyonerzihin",
+    "name": "milyonerzihin",
+    "url": "https://x.com/milyonerzihin",
+    "type": "social_account",
+    "cadence": "weekly",
+    "status": "seed_recheck_required"
+  },
+  {
+    "id": "seed-x-coinmatik1",
+    "name": "Coinmatik1",
+    "url": "https://x.com/Coinmatik1",
+    "type": "social_account",
+    "cadence": "weekly",
+    "status": "seed_recheck_required"
+  },
+  {
+    "id": "seed-x-coindoktorunuz",
+    "name": "coindoktorunuz",
+    "url": "https://x.com/coindoktorunuz",
+    "type": "social_account",
+    "cadence": "weekly",
+    "status": "seed_recheck_required"
+  },
+  {
+    "id": "seed-x-cryptoxmad",
+    "name": "Cryptoxmad",
+    "url": "https://x.com/Cryptoxmad",
+    "type": "social_account",
+    "cadence": "weekly",
+    "status": "seed_recheck_required"
+  },
+  {
+    "id": "seed-x-kahincryptocu",
+    "name": "kahincryptocu",
+    "url": "https://x.com/kahincryptocu",
+    "type": "social_account",
+    "cadence": "weekly",
+    "status": "seed_recheck_required"
+  },
+  {
+    "id": "seed-x-cryptocnr",
+    "name": "CryptoCNR",
+    "url": "https://x.com/CryptoCNR",
+    "type": "social_account",
+    "cadence": "weekly",
+    "status": "seed_recheck_required"
+  },
+  {
+    "id": "seed-x-bitcoinsistemi",
+    "name": "bitcoinsistemi",
+    "url": "https://x.com/bitcoinsistemi",
+    "type": "social_account",
+    "cadence": "weekly",
+    "status": "seed_recheck_required"
+  },
+  {
+    "id": "seed-x-btcsistemien",
+    "name": "btcsistemien",
+    "url": "https://x.com/btcsistemien",
+    "type": "social_account",
+    "cadence": "weekly",
+    "status": "seed_recheck_required"
+  },
+  {
+    "id": "seed-x-koinsaati",
+    "name": "KoinSaati",
+    "url": "https://x.com/KoinSaati",
+    "type": "social_account",
+    "cadence": "weekly",
+    "status": "seed_recheck_required"
+  },
+  {
+    "id": "seed-x-kriptoscience",
+    "name": "KriptoScience",
+    "url": "https://x.com/KriptoScience",
+    "type": "social_account",
+    "cadence": "weekly",
+    "status": "seed_recheck_required"
+  },
+  {
+    "id": "seed-x-kandemirrmehmet",
+    "name": "kandemirrmehmet",
+    "url": "https://x.com/kandemirrmehmet",
+    "type": "social_account",
+    "cadence": "weekly",
+    "status": "seed_recheck_required"
+  },
+  {
+    "id": "seed-x-cryptoquant_tr",
+    "name": "CryptoQuant_TR",
+    "url": "https://x.com/CryptoQuant_TR",
+    "type": "social_account",
+    "cadence": "weekly",
+    "status": "seed_recheck_required"
+  },
+  {
+    "id": "seed-x-coinavcisi_",
+    "name": "coinavcisi_",
+    "url": "https://x.com/coinavcisi_",
+    "type": "social_account",
+    "cadence": "weekly",
+    "status": "seed_recheck_required"
+  },
+  {
+    "id": "seed-x-arineskripto",
+    "name": "ArinesKripto",
+    "url": "https://x.com/ArinesKripto",
+    "type": "social_account",
+    "cadence": "weekly",
+    "status": "seed_recheck_required"
+  },
+  {
+    "id": "seed-x-koin_adam",
+    "name": "koin_adam",
+    "url": "https://x.com/koin_adam",
+    "type": "social_account",
+    "cadence": "weekly",
+    "status": "seed_recheck_required"
+  },
+  {
+    "id": "seed-x-majorkripto",
+    "name": "MajorKripto",
+    "url": "https://x.com/MajorKripto",
+    "type": "social_account",
+    "cadence": "weekly",
+    "status": "seed_recheck_required"
+  },
+  {
+    "id": "seed-x-ibrahimethem",
+    "name": "ibrahimethem",
+    "url": "https://x.com/ibrahimethem",
+    "type": "social_account",
+    "cadence": "weekly",
+    "status": "seed_recheck_required"
+  },
+  {
+    "id": "seed-x-muratmmturk",
+    "name": "MuratMmturk",
+    "url": "https://x.com/MuratMmturk",
+    "type": "social_account",
+    "cadence": "weekly",
+    "status": "seed_recheck_required"
+  },
+  {
+    "id": "seed-x-piyasaturkiye",
+    "name": "PiyasaTurkiye",
+    "url": "https://x.com/PiyasaTurkiye",
+    "type": "social_account",
+    "cadence": "weekly",
+    "status": "seed_recheck_required"
+  },
+  {
+    "id": "seed-x-yatirim101",
+    "name": "Yatirim101",
+    "url": "https://x.com/Yatirim101",
+    "type": "social_account",
+    "cadence": "weekly",
+    "status": "seed_recheck_required"
+  },
+  {
+    "id": "seed-x-coinfixpro",
+    "name": "CoinFixPro",
+    "url": "https://x.com/CoinFixPro",
+    "type": "social_account",
+    "cadence": "weekly",
+    "status": "seed_recheck_required"
+  },
+  {
+    "id": "seed-x-goldenzonee",
+    "name": "GoldenZonee",
+    "url": "https://x.com/GoldenZonee",
+    "type": "social_account",
+    "cadence": "weekly",
+    "status": "seed_recheck_required"
+  },
+  {
+    "id": "seed-x-fikretkarakaya",
+    "name": "fikretkarakaya",
+    "url": "https://x.com/fikretkarakaya",
+    "type": "social_account",
+    "cadence": "weekly",
+    "status": "seed_recheck_required"
+  },
+  {
+    "id": "seed-x-nhtctnk",
+    "name": "nhtctnk",
+    "url": "https://x.com/nhtctnk",
+    "type": "social_account",
+    "cadence": "weekly",
+    "status": "seed_recheck_required"
+  },
+  {
+    "id": "seed-x-vefinans",
+    "name": "VeFinans",
+    "url": "https://x.com/VeFinans",
+    "type": "social_account",
+    "cadence": "weekly",
+    "status": "seed_recheck_required"
+  },
+  {
+    "id": "seed-x-ahlatci_yatirim",
+    "name": "ahlatci_yatirim",
+    "url": "https://x.com/ahlatci_yatirim",
+    "type": "social_account",
+    "cadence": "weekly",
+    "status": "seed_recheck_required"
+  },
+  {
+    "id": "new-89cc1869d248",
+    "name": "Google Trends TR",
+    "url": "https://trends.google.com/trending?geo=TR",
+    "type": "trend",
+    "cadence": "daily",
+    "status": "seed_recheck_required"
+  },
+  {
+    "id": "new-c34e558adc76",
+    "name": "Google Trends Explore",
+    "url": "https://trends.google.com/trends/explore?date=today%201-m&geo=TR&q=Bitcoin,Fed,USDT,Zcash",
+    "type": "trend",
+    "cadence": "daily",
+    "status": "seed_recheck_required"
+  },
+  {
+    "id": "new-8de5afe4ff88",
+    "name": "Trends24 Turkey",
+    "url": "https://trends24.in/turkey/",
+    "type": "trend",
+    "cadence": "daily",
+    "status": "seed_recheck_required"
+  },
+  {
+    "id": "new-a7c8828b3bf0",
+    "name": "TikTok Creative Center TR",
+    "url": "https://ads.tiktok.com/business/creativecenter/hashtag/nc500/pc/en?countryCode=TR&period=7",
+    "type": "trend",
+    "cadence": "daily",
+    "status": "seed_recheck_required"
+  },
+  {
+    "id": "new-9b38ac9f9fcd",
+    "name": "CoinGecko Trending",
+    "url": "https://www.coingecko.com/en/highlights/trending-crypto",
+    "type": "trend",
+    "cadence": "daily",
+    "status": "seed_recheck_required"
+  },
+  {
+    "id": "new-1b1b70b8a784",
+    "name": "CoinMarketCap Trending TR interface",
+    "url": "https://coinmarketcap.com/tr/trending-cryptocurrencies/",
+    "type": "trend",
+    "cadence": "daily",
+    "status": "seed_recheck_required"
+  },
+  {
+    "id": "new-b0d0bf1e6ee8",
+    "name": "Reddit Yatirim",
+    "url": "https://www.reddit.com/r/Yatirim/new/",
+    "type": "community",
+    "cadence": "daily",
+    "status": "seed_recheck_required"
+  },
+  {
+    "id": "new-d2f863017376",
+    "name": "Reddit borsavefon",
+    "url": "https://www.reddit.com/r/borsavefon/",
+    "type": "community",
+    "cadence": "daily",
+    "status": "seed_recheck_required"
+  },
+  {
+    "id": "new-c011006eaed0",
+    "name": "Ekşi Sözlük",
+    "url": "https://eksisozluk.com/",
+    "type": "community",
+    "cadence": "daily",
+    "status": "seed_recheck_required"
+  },
+  {
+    "id": "new-c59f843787e4",
+    "name": "Coin Mühendisi Haber",
+    "url": "https://t.me/s/coinmuhendisihaber",
+    "type": "social_account",
+    "cadence": "daily",
+    "status": "seed_recheck_required"
+  },
+  {
+    "id": "new-baafdde6db0b",
+    "name": "Coin Mühendisi Duyuru",
+    "url": "https://t.me/s/Coinmuhendisiduyuru",
+    "type": "social_account",
+    "cadence": "daily",
+    "status": "seed_recheck_required"
+  },
+  {
+    "id": "new-40b808c33137",
+    "name": "Coin Mühendisi",
+    "url": "https://x.com/coinmuhendisi",
+    "type": "social_account",
+    "cadence": "daily",
+    "status": "seed_recheck_required"
+  },
+  {
+    "id": "new-e539385483f6",
+    "name": "Haber Mühendisim",
+    "url": "https://x.com/habermuhendisim",
+    "type": "social_account",
+    "cadence": "daily",
+    "status": "seed_recheck_required"
+  },
+  {
+    "id": "new-e4821a46c428",
+    "name": "Coin Mühendisi Instagram",
+    "url": "https://www.instagram.com/coinmuhendisi/",
+    "type": "social_account",
+    "cadence": "weekly",
+    "status": "seed_recheck_required"
+  },
+  {
+    "id": "new-6378ac2bdd81",
+    "name": "Coin Mühendisi YouTube",
+    "url": "https://www.youtube.com/@CoinMuhendisi/videos",
+    "type": "social_account",
+    "cadence": "daily",
+    "status": "seed_recheck_required"
+  },
+  {
+    "id": "new-5e7c27841b3b",
+    "name": "Gedik Yatırım TCMB video",
+    "url": "https://www.youtube.com/watch?v=5hxfKWxggKE",
+    "type": "social_video",
+    "cadence": "weekly",
+    "status": "seed_recheck_required"
+  },
+  {
+    "id": "new-e0c9f1a67abf",
+    "name": "Istanbul Fintech Week LinkedIn",
+    "url": "https://www.linkedin.com/company/istanbulfintechweek/",
+    "type": "social_account",
+    "cadence": "weekly",
+    "status": "seed_recheck_required"
+  },
+  {
+    "id": "new-40ae921e2bf4",
+    "name": "KPMG Türkiye IFW post",
+    "url": "https://tr.linkedin.com/posts/kpmg-turkiye_kpmg-dijitalfinans%C4%B1n%C3%B6nc%C3%BCleri-fintech-activity-7503814210318127105-yxXq",
+    "type": "social_post",
+    "cadence": "weekly",
+    "status": "seed_recheck_required"
+  },
+  {
+    "id": "new-3f8b1c4a189b",
+    "name": "Ninja News",
+    "url": "https://ninjanews.io/",
+    "type": "website",
+    "cadence": "weekly",
+    "status": "seed_recheck_required"
+  },
+  {
+    "id": "new-b7a9ab2c6785",
+    "name": "Haberler Crypto",
+    "url": "https://www.haberler.com/kripto-para/",
+    "type": "website",
+    "cadence": "weekly",
+    "status": "seed_recheck_required"
+  },
+  {
+    "id": "new-1239967482db",
+    "name": "TCMB",
+    "url": "https://www.tcmb.gov.tr/",
+    "type": "official",
+    "cadence": "daily",
+    "status": "seed_recheck_required"
+  },
+  {
+    "id": "new-b03afe64c2d8",
+    "name": "Istanbul Fintech Week",
+    "url": "https://istanbulfintechweek.com/",
+    "type": "official",
+    "cadence": "weekly",
+    "status": "seed_recheck_required"
+  },
+  {
+    "id": "new-fe3255ea546d",
+    "name": "Federal Reserve calendar",
+    "url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
+    "type": "official",
+    "cadence": "weekly",
+    "status": "seed_recheck_required"
+  },
+  {
+    "id": "new-e1ceebd36931",
+    "name": "Coin Mühendisi official links",
+    "url": "https://coinmuhendisi.com/links",
+    "type": "discovery",
+    "cadence": "weekly",
+    "status": "seed_recheck_required"
+  },
+  {
+    "id": "new-ifw-summits",
+    "name": "IFW official summit agenda",
+    "url": "https://istanbulfintechweek.com/summits",
+    "type": "official",
+    "status": "seed_recheck_required"
+  },
+  {
+    "id": "new-fintech-zone-calendar",
+    "name": "Fintech Zone İstanbul event calendar",
+    "url": "https://fintech.zone/fintek-etkinlikleri/",
+    "type": "website",
+    "status": "seed_recheck_required"
+  },
+  {
+    "id": "new-fintech-in-turkiye-en",
+    "name": "Fintech in Türkiye English",
+    "url": "https://fintechinturkiye.com/nobel-laureate-daron-acemoglu-takes-the-stage-at-istanbul-fintech-week-on-october-6/",
+    "type": "website",
+    "status": "seed_recheck_required"
+  },
+  {
+    "id": "new-paribu-en",
+    "url": "https://www.paribu.com/blog/en/",
+    "source_owner": "Paribu",
+    "status": "seed_recheck_required"
+  },
+  {
+    "id": "new-circle-press",
+    "url": "https://www.circle.com/pressroom",
+    "source_owner": "Circle",
+    "status": "seed_recheck_required"
+  },
+  {
+    "id": "new-spk-bulletins",
+    "url": "https://www.spk.gov.tr/spk-bultenleri/2026-yili-spk-bultenleri",
+    "source_owner": "SPK",
+    "status": "seed_recheck_required"
+  },
+  {
+    "id": "new-ifw-roundtables",
+    "url": "https://istanbulfintechweek.com/summits/c-suite-roundtables",
+    "source_owner": "IFW",
+    "status": "seed_recheck_required"
+  }
+]

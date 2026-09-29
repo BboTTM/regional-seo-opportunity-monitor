@@ -1,0 +1,26 @@
+{
+  "region": {
+    "id": "az",
+    "country": "AZ",
+    "name": "阿塞拜疆",
+    "timezone": "Asia/Baku",
+    "discoveryLanguages": [
+      "az",
+      "en",
+      "ru",
+      "tr"
+    ]
+  },
+  "contentLanguage": "en",
+  "reportLanguages": [
+    "zh-CN",
+    "en"
+  ],
+  "sourceFile": "az.sources.json",
+  "stateDir": "../runtime",
+  "schedule": {
+    "timezone": "Asia/Shanghai",
+    "time": "15:00",
+    "weeklyDay": "Monday"
+  }
+}

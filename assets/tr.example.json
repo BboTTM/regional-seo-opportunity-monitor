@@ -1,0 +1,24 @@
+{
+  "region": {
+    "id": "tr",
+    "country": "TR",
+    "name": "土耳其",
+    "timezone": "Europe/Istanbul",
+    "discoveryLanguages": [
+      "tr",
+      "en"
+    ]
+  },
+  "contentLanguage": "en",
+  "reportLanguages": [
+    "zh-CN",
+    "en"
+  ],
+  "sourceFile": "tr.sources.json",
+  "stateDir": "../runtime",
+  "schedule": {
+    "timezone": "Asia/Shanghai",
+    "time": "15:00",
+    "weeklyDay": "Monday"
+  }
+}

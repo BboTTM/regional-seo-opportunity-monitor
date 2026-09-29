@@ -1,0 +1,281 @@
+[
+  {
+    "id": "az-21c534fcfe8d",
+    "name": "Monetar",
+    "url": "https://monetar.az/",
+    "type": "website",
+    "cadence": "daily",
+    "source_owner": "Monetar",
+    "status": "seed_recheck_required"
+  },
+  {
+    "id": "az-939aa22e53e7",
+    "name": "Marja",
+    "url": "https://marja.az/",
+    "type": "website",
+    "cadence": "daily",
+    "source_owner": "Marja",
+    "status": "seed_recheck_required"
+  },
+  {
+    "id": "az-a85b226f6e53",
+    "name": "Report",
+    "url": "https://report.az/",
+    "type": "website",
+    "cadence": "daily",
+    "source_owner": "Report",
+    "status": "seed_recheck_required"
+  },
+  {
+    "id": "az-fbb5ac524807",
+    "name": "Trend",
+    "url": "https://www.trend.az/",
+    "type": "website",
+    "cadence": "daily",
+    "source_owner": "Trend",
+    "status": "seed_recheck_required"
+  },
+  {
+    "id": "az-ba1128b23c8c",
+    "name": "APA English Crypto",
+    "url": "https://en.apa.az/economy/cripto",
+    "type": "website",
+    "cadence": "daily",
+    "source_owner": "APA English Crypto",
+    "status": "seed_recheck_required"
+  },
+  {
+    "id": "az-eaa9e6c76ce9",
+    "name": "FinFly English",
+    "url": "https://finfly.news/en",
+    "type": "website",
+    "cadence": "daily",
+    "source_owner": "FinFly English",
+    "status": "seed_recheck_required"
+  },
+  {
+    "id": "az-a0c6a0a62832",
+    "name": "AzFina",
+    "url": "https://azfina.az/",
+    "type": "official",
+    "cadence": "daily",
+    "source_owner": "AzFina",
+    "status": "seed_recheck_required"
+  },
+  {
+    "id": "az-3626514e54a4",
+    "name": "CBAR",
+    "url": "https://www.cbar.az/",
+    "type": "official",
+    "cadence": "daily",
+    "source_owner": "CBAR",
+    "status": "seed_recheck_required"
+  },
+  {
+    "id": "az-fed5985bb7fb",
+    "name": "DVX",
+    "url": "https://taxes.gov.az/",
+    "type": "official",
+    "cadence": "daily",
+    "source_owner": "DVX",
+    "status": "seed_recheck_required"
+  },
+  {
+    "id": "az-8ed9b8087197",
+    "name": "monetar_az",
+    "url": "https://t.me/s/monetar_az",
+    "type": "Telegram",
+    "cadence": "daily",
+    "source_owner": "Monetar",
+    "status": "seed_recheck_required"
+  },
+  {
+    "id": "az-2c96f4360678",
+    "name": "reportnewsaz",
+    "url": "https://t.me/s/reportnewsaz",
+    "type": "Telegram",
+    "cadence": "daily",
+    "source_owner": "Report",
+    "status": "seed_recheck_required"
+  },
+  {
+    "id": "az-99e1352e8bc4",
+    "name": "finflynews",
+    "url": "https://t.me/s/finflynews",
+    "type": "Telegram",
+    "cadence": "daily",
+    "source_owner": "FinFly",
+    "status": "seed_recheck_required"
+  },
+  {
+    "id": "az-36d568a3d1cd",
+    "name": "monetar_az",
+    "url": "https://x.com/monetar_az",
+    "type": "X",
+    "cadence": "daily",
+    "source_owner": "Monetar",
+    "status": "seed_recheck_required"
+  },
+  {
+    "id": "az-70420100fbe2",
+    "name": "reportnewsaz",
+    "url": "https://x.com/reportnewsaz",
+    "type": "X",
+    "cadence": "daily",
+    "source_owner": "Report",
+    "status": "seed_recheck_required"
+  },
+  {
+    "id": "az-2c63cab7bc92",
+    "name": "UCPSpgPJwGhr5uB0Uui8Lj8g",
+    "url": "https://www.youtube.com/channel/UCPSpgPJwGhr5uB0Uui8Lj8g",
+    "type": "YouTube",
+    "cadence": "weekly",
+    "source_owner": "Report",
+    "status": "seed_recheck_required"
+  },
+  {
+    "id": "az-658f31db2ab6",
+    "name": "@finflynews",
+    "url": "https://youtube.com/@finflynews",
+    "type": "YouTube",
+    "cadence": "weekly",
+    "source_owner": "FinFly",
+    "status": "seed_recheck_required"
+  },
+  {
+    "id": "az-1fb13125f3da",
+    "name": "monetar.az",
+    "url": "https://www.instagram.com/monetar.az/",
+    "type": "Instagram",
+    "cadence": "weekly",
+    "source_owner": "Monetar",
+    "status": "seed_recheck_required"
+  },
+  {
+    "id": "az-f78c7228dd22",
+    "name": "azerbaijan-fintech-association",
+    "url": "https://www.linkedin.com/company/azerbaijan-fintech-association/",
+    "type": "LinkedIn",
+    "cadence": "weekly",
+    "source_owner": "AzFina",
+    "status": "seed_recheck_required"
+  },
+  {
+    "id": "az-84ded6b72c19",
+    "name": "Reddit aze_geeks",
+    "url": "https://www.reddit.com/r/aze_geeks/new/",
+    "type": "Reddit",
+    "cadence": "daily",
+    "source_owner": "Reddit aze_geeks",
+    "status": "seed_recheck_required"
+  },
+  {
+    "id": "az-dc4d339f9acd",
+    "name": "Reddit Azerbaijan",
+    "url": "https://www.reddit.com/r/azerbaijan/new/",
+    "type": "Reddit",
+    "cadence": "daily",
+    "source_owner": "Reddit Azerbaijan",
+    "status": "seed_recheck_required"
+  },
+  {
+    "id": "az-40e7c2200b07",
+    "name": "Trends24 country discovery",
+    "url": "https://trends24.in/",
+    "type": "X proxy",
+    "cadence": "daily",
+    "source_owner": "Trends24 country discovery",
+    "status": "seed_recheck_required"
+  },
+  {
+    "id": "az-f2f89a0cdd40",
+    "name": "TikTok Creative Center AZ",
+    "url": "https://ads.tiktok.com/business/creativecenter/hashtag/nc500/pc/en?countryCode=AZ&period=7",
+    "type": "TikTok",
+    "cadence": "daily",
+    "source_owner": "TikTok Creative Center AZ",
+    "status": "seed_recheck_required"
+  },
+  {
+    "id": "az-440205dc42f7",
+    "name": "CBAR monetary decisions",
+    "url": "https://www.cbar.az/page-134/monetary-policy-decisions",
+    "type": "official",
+    "cadence": "daily",
+    "source_owner": "CBAR monetary decisions",
+    "status": "seed_recheck_required"
+  },
+  {
+    "id": "az-432c80a155b6",
+    "name": "AzFina events",
+    "url": "https://azfina.az/en/tedbirler/",
+    "type": "official",
+    "cadence": "weekly",
+    "source_owner": "AzFina events",
+    "status": "seed_recheck_required"
+  },
+  {
+    "id": "az-e8e6a5c39a48",
+    "name": "DTX official release",
+    "url": "https://dtx.gov.az/az/news/1888.html",
+    "type": "official",
+    "cadence": "weekly",
+    "source_owner": "DTX official release",
+    "status": "seed_recheck_required"
+  },
+  {
+    "id": "az-b55aedb16a39",
+    "name": "az-week.json",
+    "url": "https://trends.google.com/trends/explore?date=2026-09-14%202026-09-20&geo=AZ&q=Bitcoin,USDT,q%C4%B1z%C4%B1l,dollar,FED",
+    "type": "Google Trends",
+    "cadence": "daily",
+    "source_owner": "Google",
+    "status": "seed_recheck_required"
+  },
+  {
+    "id": "az-f03f29f546ff",
+    "name": "az-35day.json",
+    "url": "https://trends.google.com/trends/explore?date=2026-08-17%202026-09-20&geo=AZ&q=Bitcoin,USDT,q%C4%B1z%C4%B1l,dollar,FED",
+    "type": "Google Trends",
+    "cadence": "daily",
+    "source_owner": "Google",
+    "status": "seed_recheck_required"
+  },
+  {
+    "id": "az-84affb7d197f",
+    "name": "az-english-35day.json",
+    "url": "https://trends.google.com/trends/explore?date=2026-08-17%202026-09-20&geo=AZ&q=how%20to%20buy%20bitcoin%20safely,usdt%20to%20azn,Bitcoin%20price%20in%20AZN,fed%20decision,gold%20price%20in%20AZN",
+    "type": "Google Trends",
+    "cadence": "daily",
+    "source_owner": "Google",
+    "status": "seed_recheck_required"
+  },
+  {
+    "id": "az-dccd44cae3c7",
+    "name": "Google Trends AZ Trending Now",
+    "url": "https://trends.google.com/trending?geo=AZ",
+    "type": "Google Trends",
+    "cadence": "daily",
+    "source_owner": "Google",
+    "status": "seed_recheck_required"
+  },
+  {
+    "id": "az-9b38ac9f9fcd",
+    "name": "CoinGecko Global",
+    "url": "https://www.coingecko.com/en/highlights/trending-crypto",
+    "type": "global_discovery",
+    "cadence": "daily",
+    "source_owner": "CoinGecko Global",
+    "status": "seed_recheck_required"
+  },
+  {
+    "id": "az-1b1b70b8a784",
+    "name": "CMC Global TR Interface",
+    "url": "https://coinmarketcap.com/tr/trending-cryptocurrencies/",
+    "type": "global_discovery",
+    "cadence": "daily",
+    "source_owner": "CMC Global TR Interface",
+    "status": "seed_recheck_required"
+  }
+]
